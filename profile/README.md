@@ -1,6 +1,6 @@
 ![Xops Maestros banner](../public/banner.png)
 
-# Xops Maestros
+# Xops Maestros(x-ops-mai·strowz)
 
 Xops Maestros is a challenge-driven learning and career platform for Ops engineers (DevOps, Platform, SRE, DevSecOps, Cloud, MLOps, etcetera).
 

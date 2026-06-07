@@ -1,6 +1,6 @@
 ![Xops Maestros banner](public/banner.png)
 
-# Xops Maestros
+# Xops Maestros(x-ops-mai·strowz)
 
 "Where intentional ops engineers are forged".
 
