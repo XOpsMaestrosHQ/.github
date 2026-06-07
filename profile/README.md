@@ -8,7 +8,7 @@ We bridge the gap between theory and operational mastery through real-world scen
 
 ## Get On Board
 
-If you fall fall into any of the below categories, then we're building for you.
+If you fall into any of the below categories, then we're building for you.
 
 - **Talents and engineers** seeking intentional ops career growth through real-world practice, mentorship, and production-grade challenges.
 
