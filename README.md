@@ -2,7 +2,7 @@
 
 # Xops Maestros
 
-Where intentional ops engineers are forged.
+"Where intentional ops engineers are forged".
 
 Xops Maestros is a challenge-driven learning and career platform for Ops engineers (DevOps, Platform, SRE, DevSecOps, Cloud, MLOps, etcetera).
 
