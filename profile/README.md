@@ -1,4 +1,4 @@
-![Xops Maestros banner](public/banner.png)
+![Xops Maestros banner](../public/banner.png)
 
 # Xops Maestros
 
