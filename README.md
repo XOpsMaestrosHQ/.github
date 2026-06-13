@@ -10,7 +10,7 @@ We bridge the gap between theory and operational mastery through real-world scen
 
 ## Get On Board
 
-> "We are building the global career operating system for cloud and Ops"
+> "We are building the global career operating system for cloud and Ops".
 
 If you fall into any of the below categories, then we're building for you.
 
