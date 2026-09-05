@@ -16,4 +16,4 @@ If you fall into any of the below categories, then we're building for you.
 
 - **Recruiters** seeking highly vetted, interview-proven ops talent for serious infrastructure, platform, cloud, reliability, security, and MLOps roles.
 
-👉🏻: [https://xopsmaestros.com/](https://xopsmaestros.com/)
+👉🏻: [https://app.xopsmaestros.com/](https://app.xopsmaestros.com/)
