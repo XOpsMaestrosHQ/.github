@@ -1,0 +1,34 @@
+name: Profile fix
+description: Report inaccurate, stale, or broken content on the org profile or README.
+title: "fix: "
+labels: ["content", "fix"]
+body:
+  - type: input
+    id: path
+    attributes:
+      label: File path
+      description: Which file needs correction?
+      placeholder: profile/README.md
+    validations:
+      required: true
+  - type: textarea
+    id: problem
+    attributes:
+      label: Problem
+      description: What is inaccurate, stale, broken (e.g. a dead link), or unclear?
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: Expected correction
+      description: What should the content say or link to instead?
+    validations:
+      required: false
+  - type: checkboxes
+    id: sensitivity
+    attributes:
+      label: Security check
+      options:
+        - label: This issue does not include secrets, tokens, private keys, or sensitive internal values.
+          required: true

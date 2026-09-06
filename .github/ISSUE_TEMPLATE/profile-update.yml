@@ -1,0 +1,26 @@
+name: Profile or branding update
+description: Request a content, copy, or branding/asset change to the org profile.
+title: "docs: "
+labels: ["content"]
+body:
+  - type: textarea
+    id: scope
+    attributes:
+      label: Scope
+      description: What needs to change or be added (copy, section, logo, banner, screenshot)?
+    validations:
+      required: true
+  - type: textarea
+    id: context
+    attributes:
+      label: Context
+      description: Why is this needed? Add links to related launches, rebrands, or discussions.
+    validations:
+      required: true
+  - type: textarea
+    id: evidence
+    attributes:
+      label: Evidence
+      description: Add mockups, screenshots, or reference links if useful.
+    validations:
+      required: false
